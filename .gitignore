@@ -1,0 +1,9 @@
+*.pyc
+.idea
+.*.sw*
+*.log*
+*.o
+*.d
+gen-py
+*local.conf
+gl_output
